@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc6781c6-0659-4565-b125-0f721629cf3a" name="Default" comment="" />
+    <list default="true" id="cc6781c6-0659-4565-b125-0f721629cf3a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -81,6 +83,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -149,6 +154,7 @@
     <option name="width" value="1105" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -348,12 +354,12 @@
       <workItem from="1524704517074" duration="4408000" />
       <workItem from="1524753699853" duration="4696000" />
       <workItem from="1524815712764" duration="8733000" />
-      <workItem from="1524877571299" duration="4542000" />
+      <workItem from="1524877571299" duration="5297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45016000" />
+    <option name="totallyTimeSpent" value="45771000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,7 +376,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.52348995" side_tool="true" visible="true" weight="0.31623933" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4489933" weight="0.32621083" />
       <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.47651008" visible="true" weight="0.31623933" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24697986" />
