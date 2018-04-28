@@ -1,0 +1,31 @@
+<div class="container">
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Word:</strong>
+  <%= @dictionary.word %>
+</p>
+
+<p>
+  <strong>Translate:</strong>
+  <%= @dictionary.translate %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @dictionary.description %>
+</p>
+
+<p>
+  <strong>Grammer:</strong>
+  <%= @dictionary.grammer %>
+</p>
+
+<p>
+  <strong>Example:</strong>
+  <%= @dictionary.example %>
+</p>
+
+<%= link_to 'Edit', edit_dictionary_path(@dictionary) %> |
+<%= link_to 'Back', dictionaries_path %>
+</div>

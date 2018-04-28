@@ -1,0 +1,9 @@
+<div class="container">
+<h1><%= @tittle %></h1>
+<p><%= @content %></p>
+<nav class="subnav">
+  <ul>
+    <li><%= link_to "category", categories_path, :class => current_class?(categories_path)  %></li>
+  </ul>
+</nav>
+</div>

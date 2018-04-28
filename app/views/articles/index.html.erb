@@ -1,0 +1,22 @@
+<div class="container">
+<p id="notice"><%= notice %></p>
+  <div class="navbar-right"><%= link_to 'New Article', new_article_path %></div>
+    <% @articles.each do |article| %>
+    <div class="post-wrapper" style="padding: 3rem 0 5rem 0; border-bottom: 1px solid #E9E9E9;">
+      <h2><%= link_to article.title,  style: "color: #333E48" %></h2>
+      <div class="created-date">created date: 2018.04.26</div>
+      <div class="body" style="font-size: 1.4rem; line-height: 2;">
+        <%= article.text %>
+        <div>
+          <td><%= link_to 'Show', article %></td>
+          <td><%= link_to 'Edit', edit_article_path(article) %></td>
+          <td><%= link_to 'Destroy', article, method: :delete, data: {confirm: 'Are you sure?'} %></td>
+        </div>
+      </div>
+    </div>
+  <% end %>
+
+  <%= will_paginate @articles, previous_label: "Older", next_label: "Newest", inner_window:1, outer_window:0 %>
+
+</div>
+
