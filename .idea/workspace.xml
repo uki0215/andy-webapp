@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc6781c6-0659-4565-b125-0f721629cf3a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-    </list>
+    <list default="true" id="cc6781c6-0659-4565-b125-0f721629cf3a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -48,8 +46,8 @@
       <file leaf-file-name="database.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            <state relative-caret-position="279">
+              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -339,12 +337,12 @@
       <workItem from="1524815712764" duration="8733000" />
       <workItem from="1524877571299" duration="5297000" />
       <workItem from="1525531045089" duration="2478000" />
-      <workItem from="1525736150853" duration="9874000" />
+      <workItem from="1525736150853" duration="10487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84004000" />
+    <option name="totallyTimeSpent" value="84617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,12 +358,12 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986577" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.490604" visible="true" weight="0.32621083" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50939596" side_tool="true" visible="true" weight="0.32621083" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.490604" weight="0.32621083" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5261745" side_tool="true" visible="true" weight="0.31623933" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.447651" weight="0.32621083" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.47449663" weight="0.31623933" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4738255" visible="true" weight="0.31623933" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.05710814" />
@@ -716,8 +714,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="279">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
