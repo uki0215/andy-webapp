@@ -9,26 +9,9 @@
   </head>
 
   <body>
-  <div class="navbar navbar-light" style="background-color: #e3f2fd;">
-    <div class="container">
-      <div class="navbar-brand">
-        <a href="#">Dictionary</a>
-      </div>
-      <ul class="nav navbar-nav navbar-left">
-        <li><%= link_to 'Home', welcome_index_path%></li>
-        <li><%= link_to 'News', articles_path%></li>
-        <li><%= link_to 'About', about_path %></li>
-        <li><%= link_to 'Dictionary', dictionaries_path %></li>
-      </ul>
-        <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Sign Up</a></li>
-        <li><a href="#">Sign In</a></li>
-        </ul>
-      </ul>
-
-    </div>
+  <%= render 'home/header' %>
+  <div class="container">
+    <%= yield %>
   </div>
-
-  <%= yield %>
   </body>
 </html>

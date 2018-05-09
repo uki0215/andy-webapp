@@ -1,7 +1,7 @@
 class PagesController < ApplicationController
 
   def about
-    @tittle = 'about us';
-    @content = 'This is about page content';
+    @tittle = 'Category';
+    @content = 'This is category page content';
   end
 end
