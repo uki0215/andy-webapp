@@ -30,7 +30,7 @@ group :development do
   gem 'web-console', '>= 3.3.0'
   gem 'sqlite3'
 end
-group :production do
+group :staging do
   gem 'pg'
   gem 'rails_12factor'
 end
