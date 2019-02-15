@@ -1,0 +1,39 @@
+# Entry 1: ou=37,ou=people,ou=dish,o=tiida
+dn: ou=37,ou=people,ou=dish,o=tiida
+objectclass: top
+objectclass: organizationalUnit
+ou: 37
+
+# Entry 2: uid=1000001,ou=37,ou=people,ou=dish,o=tiida
+dn: uid=1000001,ou=37,ou=people,ou=dish,o=tiida
+cmpaname:: 44OJ44Kz44Oi44O744K344K544OG44Og44K65qCq5byP5Lya56S+
+cn:: 57WE57mU6ZW3IOWkqumDjjE=
+deptclasscode: 0001000200010006
+deptname:: V2Vi77287729776D776R6ZaL55m66YOo
+etype1: 11
+mail: example@nttdocomo.com
+nameknjmei:: 5aSq6YOOMQ==
+nameknjsei:: 57WE57mU6ZW3
+objectclass: tiidaPerson
+objectclass: tiidaPersonOrganizationalPerson
+objectclass: docomoPerson
+objectclass: top
+ou: 53021200
+securitylevel: 13
+titlecode: 035
+uid: 1000001
+
+
+
+
+# Entry 1: cn=371000001,ou=Users,dc=ddreams,dc=pfa,dc=nttdocomo,dc=co,dc=...
+dn: cn=371000001,ou=Users,dc=ddreams,dc=pfa,dc=nttdocomo,dc=co,dc=jp
+cn: 371000001
+customerid: 1000001
+customerupn: 1000001@docomo.docomogr.net
+dish-companycode: 37
+dishid: 1000001
+dreams-companycode: 0306
+objectclass: ovd
+objectclass: top
+spead-companycode: 37
